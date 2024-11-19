@@ -9,11 +9,13 @@
 ![image](https://github.com/user-attachments/assets/0cd8845b-16f6-4348-8aac-8c18c9a0cdf7)                                                                                                                
 
 Создаем два контейнера на основе этого образа 
+![image](https://github.com/user-attachments/assets/533a7dea-61d5-439a-aff5-c32f3ec7bcba)
 ![image](https://github.com/user-attachments/assets/f293e2aa-e263-4120-980e-9167fb1622ca)
                                                                                                           
-
 Проверяем, что контейнеры создались
-![image](https://github.com/user-attachments/assets/73adcc9d-0107-4534-93ed-cae7b8008c48)                                                                                                                                                  
+![image](https://github.com/user-attachments/assets/73adcc9d-0107-4534-93ed-cae7b8008c48)               
+
+
 
 
 
