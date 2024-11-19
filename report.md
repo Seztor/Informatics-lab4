@@ -9,7 +9,8 @@
 ![image](https://github.com/user-attachments/assets/0cd8845b-16f6-4348-8aac-8c18c9a0cdf7)                                                                                                                
 
 Создаем два контейнера на основе этого образа 
-![image](https://github.com/user-attachments/assets/522c2da4-1510-4418-8bfb-e3b9dd00b7c0)                                                                                                                      
+![image](https://github.com/user-attachments/assets/f293e2aa-e263-4120-980e-9167fb1622ca)
+                                                                                                          
 
 Проверяем, что контейнеры создались
 ![image](https://github.com/user-attachments/assets/73adcc9d-0107-4534-93ed-cae7b8008c48)                                                                                                                                                  
